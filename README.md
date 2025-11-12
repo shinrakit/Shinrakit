@@ -5,7 +5,7 @@
 </p>
 
 **จิรกิตต์ หมูหล้า (แจ็ค)**  
-นักศึกษาชั้นปีที่ 2 สาขา **วิทยาการคอมพิวเตอร์ (Computer Science)** 💻  
+นักศึกษาชั้นปีที่ 2 สาขา **วิทยาการคอมพิวเตอร์ (Computer Science)**
 **มหาวิทยาลัยพะเยา (University of Phayao)**  
 
 สนใจด้านเทคโนโลยีใหม่ ๆ โดยเฉพาะ **ปัญญาประดิษฐ์ (AI)**, **Web Development**, และ **Data Science**  
@@ -14,7 +14,6 @@
 ---
 
 ### 🌱 โปรเจกต์ที่กำลังทำ/สนใจอยู่
-
 * 🚀 กำลังลุยกับวิชา **Pre-Project** ของมหาวิทยาลัย  
 * 📚 ศึกษาเทคโนโลยีอย่าง **Next.js**, **Express**, และ **Machine Learning (Python / Scikit-learn)**  
 * 💡 ค้นหาแนวคิดโปรเจกต์เกี่ยวกับ **AI for Student Life** เช่น ระบบช่วยจัดตารางเรียน หรือแนะนำวิชาเลือก  
@@ -23,27 +22,19 @@
 ---
 
 ### 🛠️ ทักษะและเครื่องมือ (Tech Stack)
-
 <p align="left">
   <strong>ภาษา (Languages):</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </p>
-
 <p align="left">
   <strong>ฟรอนต์เอนด์ (Frontend):</strong><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
-
 <p align="left">
   <strong>แบ็กเอนด์ & ฐานข้อมูล (Backend & Database):</strong><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
-
 <p align="left">
   <strong>เครื่องมืออื่นๆ (Tools):</strong><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -54,7 +45,6 @@
 ---
 
 ### 🎵 ความสนใจอื่นๆ
-
 * 🎧 ฟังเพลง K-Pop (วงโปรด: **ILLIT**, **NewJeans**)  
 * 🤖 ติดตามข่าวสารวงการ AI และเทคโนโลยี  
 * 🎮 สนุกกับการเล่นเกมแนว Simulation / Strategy และออกแบบ UI Prototype  
@@ -62,13 +52,15 @@
 ---
 
 ### 📫 ช่องทางการติดต่อ
-
 <p align="left">
   <a href="mailto:67020780@up.ac.th" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.facebook.com/chirakit.mula" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <a href="https://www.instagram.com/shinarkit" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/@shinarkit" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
@@ -81,8 +73,3 @@
   <br>
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinrakit&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
-
-> 💬 _“Code it, break it, fix it, learn it — repeat.”_  
-> — Shinrakit

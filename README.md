@@ -54,12 +54,12 @@
 ### 📫 ช่องทางการติดต่อ
 <p align="left">
   <a href="mailto:67020780@up.ac.th" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
   </a>
-  <a href="https://www.instagram.com/shinarkit" target="_blank">
+  <a href="https://www.instagram.com/shinrakit" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/@shinarkit" target="_blank">
+  <a href="https://www.youtube.com/@shinrakit" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>

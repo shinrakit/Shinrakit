@@ -1,8 +1,4 @@
-### 👋 ยินดีต้อนรับสู่โกดังเก็บของ Shinrakit
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Shinrakit&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="profile-views" />
-</p>
+<h1 align="center">### 👋 ยินดีต้อนรับสู่โกดังเก็บของ Shinrakit</h1>
 
 **จิรกิตต์ หมูหล้า (แจ็ค)**  
 นักศึกษาชั้นปีที่ 2 สาขา **วิทยาการคอมพิวเตอร์ (Computer Science)**
@@ -47,29 +43,8 @@
 ### 🎵 ความสนใจอื่นๆ
 * 🎧 ฟังเพลง K-Pop (วงโปรด: **ILLIT**, **NewJeans**)  
 * 🤖 ติดตามข่าวสารวงการ AI และเทคโนโลยี  
-* 🎮 สนุกกับการเล่นเกมแนว Simulation / Strategy และออกแบบ UI Prototype  
+* 🎮 สนุกกับการเล่นเกมแนว Simulation / Strategy และออกแบบ UI Prototype
 
----
-
-### 📫 ช่องทางการติดต่อ
 <p align="left">
-  <a href="mailto:67020780@up.ac.th" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
-  </a>
-  <a href="https://www.instagram.com/shinrakit" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@shinrakit" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
-
----
-
-### 📊 สถิติ GitHub
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Shinrakit&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-  <br>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinrakit&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=Shinrakit&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="profile-views" />
 </p>

@@ -1,37 +1,88 @@
-<h1 align="center">👋, ยินดีต้อนรับสู่โกดังเก็บของ Shinrakit</h1>
-<h3 align="center">อาจจะมีกล่องลังเก่า ๆ เกะกะไปหน่อย</h3>
+### 👋 ยินดีต้อนรับสู่โกดังเก็บของ Shinrakit
 
-<!-- เพิ่ม GIF ตรงนี้ -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Shinrakit&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="profile-views" />
+</p>
+
+**จิรกิตต์ หมูหล้า (แจ็ค)**  
+นักศึกษาชั้นปีที่ 2 สาขา **วิทยาการคอมพิวเตอร์ (Computer Science)** 💻  
+**มหาวิทยาลัยพะเยา (University of Phayao)**  
+
+สนใจด้านเทคโนโลยีใหม่ ๆ โดยเฉพาะ **ปัญญาประดิษฐ์ (AI)**, **Web Development**, และ **Data Science**  
+มุ่งพัฒนาทักษะการสร้างโปรเจกต์จริง พร้อมต่อยอดไปสู่เส้นทาง **Full Stack Developer** ที่เข้าใจทั้งระบบและผู้ใช้
+
+---
+
+### 🌱 โปรเจกต์ที่กำลังทำ/สนใจอยู่
+
+* 🚀 กำลังลุยกับวิชา **Pre-Project** ของมหาวิทยาลัย  
+* 📚 ศึกษาเทคโนโลยีอย่าง **Next.js**, **Express**, และ **Machine Learning (Python / Scikit-learn)**  
+* 💡 ค้นหาแนวคิดโปรเจกต์เกี่ยวกับ **AI for Student Life** เช่น ระบบช่วยจัดตารางเรียน หรือแนะนำวิชาเลือก  
+* 👯 มองหาทีมร่วมพัฒนาโปรเจกต์ด้าน **AI & Web Application**
+
+---
+
+### 🛠️ ทักษะและเครื่องมือ (Tech Stack)
+
+<p align="left">
+  <strong>ภาษา (Languages):</strong><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</p>
+
+<p align="left">
+  <strong>ฟรอนต์เอนด์ (Frontend):</strong><br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<p align="left">
+  <strong>แบ็กเอนด์ & ฐานข้อมูล (Backend & Database):</strong><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+<p align="left">
+  <strong>เครื่องมืออื่นๆ (Tools):</strong><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
+
+### 🎵 ความสนใจอื่นๆ
+
+* 🎧 ฟังเพลง K-Pop (วงโปรด: **ILLIT**, **NewJeans**)  
+* 🤖 ติดตามข่าวสารวงการ AI และเทคโนโลยี  
+* 🎮 สนุกกับการเล่นเกมแนว Simulation / Strategy และออกแบบ UI Prototype  
+
+---
+
+### 📫 ช่องทางการติดต่อ
+
+<p align="left">
+  <a href="mailto:67020780@up.ac.th" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.facebook.com/chirakit.mula" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
+---
+
+### 📊 สถิติ GitHub
+
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFiMHF0dGNuYTcyN3Z5bGxieXU1cDQ1b25yMWs5NGMyc2I4N250OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mkhMTALnrYRLnuoe5P/giphy.gif" 
-       alt="welcome gif" width="400" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Shinrakit&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+  <br>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinrakit&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/shinrakit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shinrakit" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shinrakit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shinrakit" height="30" width="40" /></a>
-<a href="https://discord.gg/Shinrakit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shinrakit" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-</p>
+> 💬 _“Code it, break it, fix it, learn it — repeat.”_  
+> — Shinrakit

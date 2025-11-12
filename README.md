@@ -1,9 +1,4 @@
-<h1 align="center">### 👋 ยินดีต้อนรับสู่โกดังเก็บของ Shinrakit</h1>
-
-**จิรกิตต์ หมูหล้า (แจ็ค)**  
-นักศึกษาชั้นปีที่ 2 สาขา **วิทยาการคอมพิวเตอร์ (Computer Science)**
-**มหาวิทยาลัยพะเยา (University of Phayao)**  
-
+<h1 align="center">👋 ยินดีต้อนรับสู่โกดังเก็บของ Shinrakit</h1>
 สนใจด้านเทคโนโลยีใหม่ ๆ โดยเฉพาะ **ปัญญาประดิษฐ์ (AI)**, **Web Development**, และ **Data Science**  
 มุ่งพัฒนาทักษะการสร้างโปรเจกต์จริง พร้อมต่อยอดไปสู่เส้นทาง **Full Stack Developer** ที่เข้าใจทั้งระบบและผู้ใช้
 
@@ -21,17 +16,11 @@
 <p align="left">
   <strong>ภาษา (Languages):</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-<p align="left">
   <strong>ฟรอนต์เอนด์ (Frontend):</strong><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-<p align="left">
   <strong>แบ็กเอนด์ & ฐานข้อมูล (Backend & Database):</strong><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-<p align="left">
   <strong>เครื่องมืออื่นๆ (Tools):</strong><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />

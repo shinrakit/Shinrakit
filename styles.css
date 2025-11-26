@@ -1,0 +1,17 @@
+body {
+            font-family: 'Kanit', sans-serif;
+        }
+        #titel {
+            text-align: center;
+            margin-top: 50px;
+        }
+        #content {
+            margin: 20px auto;
+            width: 80%;
+        }
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            font-size: 0.9em;
+            color: #555;
+        }
